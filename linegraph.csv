@@ -1,0 +1,31 @@
+continent,year,total_alcohol_consumption
+Africa,2000,269.1755692
+Africa,2005,261.8689164
+Africa,2010,272.7255171
+Africa,2015,279.7668128
+Africa,2018,277.7709411
+Asia,2000,162.3263132
+Asia,2005,162.9036637
+Asia,2010,189.0715237
+Asia,2015,203.7019011
+Asia,2018,200.2891994
+Europe,2000,521.742657
+Europe,2005,537.4223613
+Europe,2010,527.0097018
+Europe,2015,497.3978724
+Europe,2018,487.7272671
+North America,2000,152.7022403
+North America,2005,156.1943499
+North America,2010,160.1971655
+North America,2015,166.5699165
+North America,2018,170.0168276
+Oceania,2000,44.99
+Oceania,2005,44.29
+Oceania,2010,45.1
+Oceania,2015,39.16
+Oceania,2018,39.08
+South America,2000,84.68
+South America,2005,85.42
+South America,2010,87.69
+South America,2015,82.93
+South America,2018,77.75
