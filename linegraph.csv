@@ -1,0 +1,1165 @@
+country_name,year,total_alcohol_consumption,continent
+Afghanistan,2010,0.21,Asia
+Afghanistan,2015,0.21,Asia
+Afghanistan,2018,0.21,Asia
+Africa Eastern and Southern,2000,5.014051016,Unknown
+Africa Eastern and Southern,2005,4.85658758,Unknown
+Africa Eastern and Southern,2010,5.417114845,Unknown
+Africa Eastern and Southern,2015,5.200565328,Unknown
+Africa Eastern and Southern,2018,5.17091073,Unknown
+Africa Western and Central,2000,8.092473514,Unknown
+Africa Western and Central,2005,7.813972144,Unknown
+Africa Western and Central,2010,7.494864053,Unknown
+Africa Western and Central,2015,6.869467733,Unknown
+Africa Western and Central,2018,6.835266062,Unknown
+Albania,2000,6.57,Europe
+Albania,2005,7.65,Europe
+Albania,2010,7.69,Europe
+Albania,2015,6.74,Europe
+Albania,2018,7.17,Europe
+Algeria,2000,0.58,Africa
+Algeria,2005,0.81,Africa
+Algeria,2010,0.65,Africa
+Algeria,2015,0.93,Africa
+Algeria,2018,0.95,Africa
+Andorra,2000,13.28,Europe
+Andorra,2005,12.55,Europe
+Andorra,2010,11.11,Europe
+Andorra,2015,11.01,Europe
+Andorra,2018,11.02,Europe
+Angola,2000,2.76,Africa
+Angola,2005,4.89,Africa
+Angola,2010,8.16,Africa
+Angola,2015,7.96,Africa
+Angola,2018,6.94,Africa
+Antigua and Barbuda,2000,5.13,North America
+Antigua and Barbuda,2005,5.37,North America
+Antigua and Barbuda,2010,5.6,North America
+Antigua and Barbuda,2015,5.89,North America
+Antigua and Barbuda,2018,6.38,North America
+Arab World,2000,0.672858249,Unknown
+Arab World,2005,0.648096046,Unknown
+Arab World,2010,0.64622786,Unknown
+Arab World,2015,0.627499783,Unknown
+Arab World,2018,0.618598082,Unknown
+Argentina,2000,8.75,South America
+Argentina,2005,8.66,South America
+Argentina,2010,9.09,South America
+Argentina,2015,9.55,South America
+Argentina,2018,9.65,South America
+Armenia,2000,4.23,Asia
+Armenia,2005,5.79,Asia
+Armenia,2010,5.69,Asia
+Armenia,2015,5.84,Asia
+Armenia,2018,5.55,Asia
+Australia,2000,11.72,Oceania
+Australia,2005,12.08,Oceania
+Australia,2010,12.39,Oceania
+Australia,2015,10.83,Oceania
+Australia,2018,10.51,Oceania
+Austria,2000,13.12,Europe
+Austria,2005,12.79,Europe
+Austria,2010,12.2,Europe
+Austria,2015,12.07,Europe
+Austria,2018,11.96,Europe
+Azerbaijan,2000,3.45,Asia
+Azerbaijan,2005,1.81,Asia
+Azerbaijan,2010,2.97,Asia
+Azerbaijan,2015,4.58,Asia
+Azerbaijan,2018,4.41,Asia
+Bahamas,2000,5.58,North America
+Bahamas,2005,4.28,North America
+Bahamas,2010,4.12,North America
+Bahamas,2015,4.55,North America
+Bahamas,2018,4.78,North America
+Bahrain,2000,1.74,Asia
+Bahrain,2005,1.76,Asia
+Bahrain,2010,1.69,Asia
+Bahrain,2015,1.3,Asia
+Bahrain,2018,1.09,Asia
+Bangladesh,2000,0.23,Asia
+Bangladesh,2005,0.16,Asia
+Bangladesh,2010,0.16,Asia
+Bangladesh,2015,0.021,Asia
+Bangladesh,2018,0.019,Asia
+Barbados,2000,7.11,North America
+Barbados,2005,7.4,North America
+Barbados,2010,7.95,North America
+Barbados,2015,9.33,North America
+Barbados,2018,9.69,North America
+Belarus,2000,15.17,Europe
+Belarus,2005,15.3,Europe
+Belarus,2010,17.43,Europe
+Belarus,2015,12,Europe
+Belarus,2018,11.45,Europe
+Belgium,2000,12.49,Europe
+Belgium,2005,13.13,Europe
+Belgium,2010,11.4,Europe
+Belgium,2015,11.82,Europe
+Belgium,2018,11.08,Europe
+Belize,2000,5.55,North America
+Belize,2005,7.16,North America
+Belize,2010,7.08,North America
+Belize,2015,6.74,North America
+Belize,2018,6.22,North America
+Benin,2000,2.46,Africa
+Benin,2005,2.23,Africa
+Benin,2010,2.47,Africa
+Benin,2015,2.97,Africa
+Benin,2018,2.81,Africa
+Bhutan,2000,2.77,Asia
+Bhutan,2005,1.6,Asia
+Bhutan,2010,0.92,Asia
+Bhutan,2015,0.42,Asia
+Bhutan,2018,0.43,Asia
+Bolivia,2000,3.44,South America
+Bolivia,2005,4.37,South America
+Bolivia,2010,5.56,South America
+Bolivia,2015,4.64,South America
+Bolivia,2018,4.43,South America
+Bosnia and Herzegovina,2000,6.37,Europe
+Bosnia and Herzegovina,2005,7.2,Europe
+Bosnia and Herzegovina,2010,7.32,Europe
+Bosnia and Herzegovina,2015,6.92,Europe
+Bosnia and Herzegovina,2018,7.15,Europe
+Botswana,2000,9.05,Africa
+Botswana,2005,9.61,Africa
+Botswana,2010,8.62,Africa
+Botswana,2015,6.86,Africa
+Botswana,2018,6.59,Africa
+Brazil,2000,8.78,South America
+Brazil,2005,8.32,South America
+Brazil,2010,8.49,South America
+Brazil,2015,7.86,South America
+Brazil,2018,7.42,South America
+Brunei,2000,0.23,Asia
+Brunei,2005,0.21,Asia
+Brunei,2010,0.51,Asia
+Brunei,2015,0.46,Asia
+Brunei,2018,0.48,Asia
+Bulgaria,2000,11.8,Europe
+Bulgaria,2005,11.42,Europe
+Bulgaria,2010,11.32,Europe
+Bulgaria,2015,12.34,Europe
+Bulgaria,2018,12.65,Europe
+Burkina Faso,2000,8.4,Africa
+Burkina Faso,2005,9.19,Africa
+Burkina Faso,2010,8.58,Africa
+Burkina Faso,2015,11.83,Africa
+Burkina Faso,2018,12.03,Africa
+Burundi,2000,9.82,Africa
+Burundi,2005,8.44,Africa
+Burundi,2010,7.66,Africa
+Burundi,2015,7.03,Africa
+Burundi,2018,7.19,Africa
+Cambodia,2000,1.87,Asia
+Cambodia,2005,2.69,Asia
+Cambodia,2010,4.91,Asia
+Cambodia,2015,6.37,Asia
+Cambodia,2018,6.64,Asia
+Cameroon,2000,6.69,Africa
+Cameroon,2005,7.62,Africa
+Cameroon,2010,8.43,Africa
+Cameroon,2015,6.17,Africa
+Cameroon,2018,5.65,Africa
+Canada,2010,10.1,North America
+Canada,2015,8.88,North America
+Canada,2018,8.94,North America
+Cape Verde,2000,6.03,Africa
+Cape Verde,2005,6.95,Africa
+Cape Verde,2010,7.51,Africa
+Cape Verde,2015,5.95,Africa
+Cape Verde,2018,5.6,Africa
+Caribbean Small States,2000,5.862240321,Unknown
+Caribbean Small States,2005,5.754349896,Unknown
+Caribbean Small States,2010,5.660811971,Unknown
+Caribbean Small States,2015,5.857448023,Unknown
+Caribbean Small States,2018,5.794512657,Unknown
+Central African Republic,2000,3.68,Africa
+Central African Republic,2005,3.62,Africa
+Central African Republic,2010,3.98,Africa
+Central African Republic,2015,2.43,Africa
+Central African Republic,2018,2.38,Africa
+Central Europe and the Baltics,2000,12.62650036,Unknown
+Central Europe and the Baltics,2005,12.8572741,Unknown
+Central Europe and the Baltics,2010,12.26601222,Unknown
+Central Europe and the Baltics,2015,11.99292926,Unknown
+Central Europe and the Baltics,2018,11.93207958,Unknown
+Chad,2000,4.34,Africa
+Chad,2005,4.62,Africa
+Chad,2010,6.58,Africa
+Chad,2015,1.45,Africa
+Chad,2018,1.37,Africa
+Chile,2000,7.74,South America
+Chile,2005,8.93,South America
+Chile,2010,9.31,South America
+Chile,2015,9.26,South America
+Chile,2018,9.07,South America
+China,2000,3.81,Asia
+China,2005,4.02,Asia
+China,2010,7.07,Asia
+China,2015,7.15,Asia
+China,2018,7.05,Asia
+Colombia,2000,5.58,South America
+Colombia,2005,5.41,South America
+Colombia,2010,5.04,South America
+Colombia,2015,5.78,South America
+Colombia,2018,5.74,South America
+Comoros,2000,0.19,Africa
+Comoros,2005,0.44,Africa
+Comoros,2010,0.25,Africa
+Comoros,2015,0.88,Africa
+Comoros,2018,0.69,Africa
+Congo,2000,3.45,Africa
+Congo,2005,3.75,Africa
+Congo,2010,6.17,Africa
+Congo,2015,7.9,Africa
+Congo,2018,9.27,Africa
+Costa Rica,2000,5.55,North America
+Costa Rica,2005,5.42,North America
+Costa Rica,2010,4.8,North America
+Costa Rica,2015,4.76,North America
+Costa Rica,2018,4.87,North America
+Cote d'Ivoire,2000,7.25,Unknown
+Cote d'Ivoire,2005,3.3,Unknown
+Cote d'Ivoire,2010,2.53,Unknown
+Cote d'Ivoire,2015,2.61,Unknown
+Cote d'Ivoire,2018,2.71,Unknown
+Croatia,2000,12.45,Europe
+Croatia,2005,10.31,Europe
+Croatia,2010,10.08,Europe
+Croatia,2015,9.07,Europe
+Croatia,2018,9.23,Europe
+Cuba,2000,4.98,North America
+Cuba,2005,5.36,North America
+Cuba,2010,5.02,North America
+Cuba,2015,5.67,North America
+Cuba,2018,5.83,North America
+Cyprus,2000,10.86,Asia
+Cyprus,2005,12.43,Asia
+Cyprus,2010,11.35,Asia
+Cyprus,2015,10.76,Asia
+Cyprus,2018,10.81,Asia
+Czechia,2000,15,Europe
+Czechia,2005,14.76,Europe
+Czechia,2010,14.06,Europe
+Czechia,2015,14.25,Europe
+Czechia,2018,14.45,Europe
+Democratic Republic of Congo,2000,0.95,Unknown
+Democratic Republic of Congo,2005,0.86,Unknown
+Democratic Republic of Congo,2010,1.75,Unknown
+Democratic Republic of Congo,2015,2.05,Unknown
+Democratic Republic of Congo,2018,2,Unknown
+Denmark,2000,12.67,Europe
+Denmark,2005,12.29,Europe
+Denmark,2010,11,Europe
+Denmark,2015,10.36,Europe
+Denmark,2018,10.26,Europe
+Djibouti,2000,1.62,Africa
+Djibouti,2005,1.28,Africa
+Djibouti,2010,0.67,Africa
+Djibouti,2015,0.49,Africa
+Djibouti,2018,0.43,Africa
+Dominica,2000,8.38,North America
+Dominica,2005,8.72,North America
+Dominica,2010,9.65,North America
+Dominica,2015,11.32,North America
+Dominica,2018,11.18,North America
+Dominican Republic,2000,7.19,North America
+Dominican Republic,2005,6.15,North America
+Dominican Republic,2010,6.11,North America
+Dominican Republic,2015,6.61,North America
+Dominican Republic,2018,6.68,North America
+Early-demographic dividend,2000,2.511086062,Unknown
+Early-demographic dividend,2005,2.520305387,Unknown
+Early-demographic dividend,2010,3.453335078,Unknown
+Early-demographic dividend,2015,3.909810868,Unknown
+Early-demographic dividend,2018,3.892436163,Unknown
+East Asia & Pacific,2000,4.092755052,Unknown
+East Asia & Pacific,2005,4.185950303,Unknown
+East Asia & Pacific,2010,6.262726494,Unknown
+East Asia & Pacific,2015,6.472068348,Unknown
+East Asia & Pacific,2018,6.430730189,Unknown
+East Asia & Pacific (IDA & IBRD),2000,3.427089536,Unknown
+East Asia & Pacific (IDA & IBRD),2005,3.627568952,Unknown
+East Asia & Pacific (IDA & IBRD),2010,6.053491616,Unknown
+East Asia & Pacific (IDA & IBRD),2015,6.262173644,Unknown
+East Asia & Pacific (IDA & IBRD),2018,6.224374693,Unknown
+East Asia & Pacific (excluding high income),2000,3.428277993,Unknown
+East Asia & Pacific (excluding high income),2005,3.628218329,Unknown
+East Asia & Pacific (excluding high income),2010,6.025462964,Unknown
+East Asia & Pacific (excluding high income),2015,6.232022312,Unknown
+East Asia & Pacific (excluding high income),2018,6.194505725,Unknown
+Ecuador,2000,5.96,South America
+Ecuador,2005,5.81,South America
+Ecuador,2010,6.16,South America
+Ecuador,2015,4.98,South America
+Ecuador,2018,4.2,South America
+Egypt,2000,0.25,Africa
+Egypt,2005,0.29,Africa
+Egypt,2010,0.36,Africa
+Egypt,2015,0.4,Africa
+Egypt,2018,0.36,Africa
+El Salvador,2000,3.86,North America
+El Salvador,2005,3.8,North America
+El Salvador,2010,3.31,North America
+El Salvador,2015,3.59,North America
+El Salvador,2018,3.89,North America
+Equatorial Guinea,2000,7.45,Africa
+Equatorial Guinea,2005,8.91,Africa
+Equatorial Guinea,2010,9.2,Africa
+Equatorial Guinea,2015,9.08,Africa
+Equatorial Guinea,2018,7.23,Africa
+Eritrea,2000,1.57,Africa
+Eritrea,2005,2.08,Africa
+Eritrea,2010,1.38,Africa
+Eritrea,2015,1.42,Africa
+Eritrea,2018,1.44,Africa
+Estonia,2000,9.57,Europe
+Estonia,2005,15.65,Europe
+Estonia,2010,12.39,Europe
+Estonia,2015,12.39,Europe
+Estonia,2018,9.23,Europe
+Eswatini,2000,7.46,Africa
+Eswatini,2005,6.71,Africa
+Eswatini,2010,6.82,Africa
+Eswatini,2015,9.84,Africa
+Eswatini,2018,10.04,Africa
+Ethiopia,2000,1.76,Africa
+Ethiopia,2005,2.05,Africa
+Ethiopia,2010,2.5,Africa
+Ethiopia,2015,2.19,Africa
+Ethiopia,2018,2.36,Africa
+Euro area,2000,12.71715516,Unknown
+Euro area,2005,12.26848103,Unknown
+Euro area,2010,10.9915886,Unknown
+Euro area,2015,11.32569234,Unknown
+Euro area,2018,11.40251253,Unknown
+Europe & Central Asia,2000,12.07242738,Unknown
+Europe & Central Asia,2005,12.06874892,Unknown
+Europe & Central Asia,2010,11.03833059,Unknown
+Europe & Central Asia,2015,10.08709485,Unknown
+Europe & Central Asia,2018,9.764031941,Unknown
+Europe & Central Asia (IDA & IBRD),2000,11.27565184,Unknown
+Europe & Central Asia (IDA & IBRD),2005,11.62128322,Unknown
+Europe & Central Asia (IDA & IBRD),2010,10.8740463,Unknown
+Europe & Central Asia (IDA & IBRD),2015,8.80951673,Unknown
+Europe & Central Asia (IDA & IBRD),2018,8.053197891,Unknown
+Europe & Central Asia (excluding high income),2000,11.48155361,Unknown
+Europe & Central Asia (excluding high income),2005,11.74377531,Unknown
+Europe & Central Asia (excluding high income),2010,10.84908847,Unknown
+Europe & Central Asia (excluding high income),2015,8.525547925,Unknown
+Europe & Central Asia (excluding high income),2018,7.680729612,Unknown
+European Union,2000,12.63936868,Unknown
+European Union,2005,12.30279871,Unknown
+European Union,2010,11.21063562,Unknown
+European Union,2015,11.37709129,Unknown
+European Union,2018,11.44471551,Unknown
+Fiji,2000,3.24,Oceania
+Fiji,2005,2.78,Oceania
+Fiji,2010,3,Oceania
+Fiji,2015,3.33,Oceania
+Fiji,2018,3.32,Oceania
+Finland,2000,11.69,Europe
+Finland,2005,13.11,Europe
+Finland,2010,12.59,Europe
+Finland,2015,11.18,Europe
+Finland,2018,10.78,Europe
+Fragile and conflict affected situations,2000,4.827625153,Unknown
+Fragile and conflict affected situations,2005,4.955418452,Unknown
+Fragile and conflict affected situations,2010,4.866813971,Unknown
+Fragile and conflict affected situations,2015,4.410277902,Unknown
+Fragile and conflict affected situations,2018,4.358818954,Unknown
+France,2000,14.08,Europe
+France,2005,13.09,Europe
+France,2010,12.4,Europe
+France,2015,12.64,Europe
+France,2018,12.33,Europe
+Gabon,2000,10.59,Africa
+Gabon,2005,9.36,Africa
+Gabon,2010,9.89,Africa
+Gabon,2015,9.57,Africa
+Gabon,2018,8.74,Africa
+Gambia,2000,4.14,Africa
+Gambia,2005,4.27,Africa
+Gambia,2010,3.81,Africa
+Gambia,2015,3.67,Africa
+Gambia,2018,3.55,Africa
+Georgia,2000,4.41,Asia
+Georgia,2005,6.39,Asia
+Georgia,2010,9.67,Asia
+Georgia,2015,9.61,Asia
+Georgia,2018,8.25,Asia
+Germany,2000,14.16,Europe
+Germany,2005,13.28,Europe
+Germany,2010,12.64,Europe
+Germany,2015,13.06,Europe
+Germany,2018,12.91,Europe
+Ghana,2000,5.3,Africa
+Ghana,2005,3.77,Africa
+Ghana,2010,4.26,Africa
+Ghana,2015,3.12,Africa
+Ghana,2018,2.75,Africa
+Greece,2000,10.18,Europe
+Greece,2005,10.73,Europe
+Greece,2010,9.67,Europe
+Greece,2015,10.49,Europe
+Greece,2018,10.18,Europe
+Grenada,2000,9.8,North America
+Grenada,2005,8.76,North America
+Grenada,2010,8.31,North America
+Grenada,2015,9.07,North America
+Grenada,2018,9.48,North America
+Guatemala,2000,4.4,North America
+Guatemala,2005,4.29,North America
+Guatemala,2010,3.51,North America
+Guatemala,2015,2.55,North America
+Guatemala,2018,2.45,North America
+Guinea,2000,0.67,Africa
+Guinea,2005,0.77,Africa
+Guinea,2010,0.7,Africa
+Guinea,2015,1.07,Africa
+Guinea,2018,1.11,Africa
+Guinea-Bissau,2000,4.15,Africa
+Guinea-Bissau,2005,5.31,Africa
+Guinea-Bissau,2010,4.47,Africa
+Guinea-Bissau,2015,5.05,Africa
+Guinea-Bissau,2018,5.38,Africa
+Guyana,2000,8.98,South America
+Guyana,2005,7.98,South America
+Guyana,2010,6.78,South America
+Guyana,2015,7.35,South America
+Guyana,2018,6.89,South America
+Haiti,2000,3.97,North America
+Haiti,2005,3.86,North America
+Haiti,2010,2.99,North America
+Haiti,2015,2.69,North America
+Haiti,2018,2.73,North America
+Heavily indebted poor countries (HIPC),2000,4.240083002,Unknown
+Heavily indebted poor countries (HIPC),2005,4.033974174,Unknown
+Heavily indebted poor countries (HIPC),2010,4.175624332,Unknown
+Heavily indebted poor countries (HIPC),2015,4.027647625,Unknown
+Heavily indebted poor countries (HIPC),2018,4.065759856,Unknown
+High income,2000,10.56022272,Unknown
+High income,2005,10.38993765,Unknown
+High income,2010,9.635647503,Unknown
+High income,2015,9.764919204,Unknown
+High income,2018,9.779655995,Unknown
+Honduras,2000,3.5,North America
+Honduras,2005,3.88,North America
+Honduras,2010,3.59,North America
+Honduras,2015,3.49,North America
+Honduras,2018,3.76,North America
+Hungary,2000,14.27,Europe
+Hungary,2005,14.56,Europe
+Hungary,2010,12.09,Europe
+Hungary,2015,11.6,Europe
+Hungary,2018,11.35,Europe
+IBRD only,2000,4.464245948,Unknown
+IBRD only,2005,4.534005081,Unknown
+IBRD only,2010,6.050196574,Unknown
+IBRD only,2015,6.13515037,Unknown
+IBRD only,2018,5.97662907,Unknown
+IDA & IBRD total,2000,4.328660612,Unknown
+IDA & IBRD total,2005,4.368492801,Unknown
+IDA & IBRD total,2010,5.594748065,Unknown
+IDA & IBRD total,2015,5.614515863,Unknown
+IDA & IBRD total,2018,5.487421484,Unknown
+IDA blend,2000,5.400008832,Unknown
+IDA blend,2005,5.244982365,Unknown
+IDA blend,2010,4.980483236,Unknown
+IDA blend,2015,4.589950376,Unknown
+IDA blend,2018,4.626759114,Unknown
+IDA only,2000,2.747601956,Unknown
+IDA only,2005,2.718707919,Unknown
+IDA only,2010,2.966328093,Unknown
+IDA only,2015,3.101211322,Unknown
+IDA only,2018,3.201362804,Unknown
+IDA total,2000,3.681898475,Unknown
+IDA total,2005,3.610977816,Unknown
+IDA total,2010,3.667153014,Unknown
+IDA total,2015,3.606751786,Unknown
+IDA total,2018,3.683914896,Unknown
+Iceland,2000,7.03,Europe
+Iceland,2005,7.74,Europe
+Iceland,2010,7.5,Europe
+Iceland,2015,8.74,Europe
+Iceland,2018,9.12,Europe
+India,2000,2.28,Asia
+India,2005,2.33,Asia
+India,2010,4.35,Asia
+India,2015,5.54,Asia
+India,2018,5.54,Asia
+Indonesia,2000,0.5,Asia
+Indonesia,2005,0.48,Asia
+Indonesia,2010,0.59,Asia
+Indonesia,2015,0.6,Asia
+Indonesia,2018,0.57,Asia
+Iran,2000,0.21,Asia
+Iran,2005,0.58,Asia
+Iran,2010,1.01,Asia
+Iran,2015,1.01,Asia
+Iran,2018,1.03,Asia
+Iraq,2000,0.45,Asia
+Iraq,2005,0.44,Asia
+Iraq,2010,0.49,Asia
+Iraq,2015,0.37,Asia
+Iraq,2018,0.39,Asia
+Ireland,2000,15.13,Europe
+Ireland,2005,14.2,Europe
+Ireland,2010,12.07,Europe
+Ireland,2015,12.47,Europe
+Ireland,2018,12.88,Europe
+Israel,2000,3.08,Asia
+Israel,2005,2.7,Asia
+Israel,2010,3.12,Asia
+Israel,2015,3.86,Asia
+Israel,2018,4.21,Asia
+Italy,2000,10.37,Europe
+Italy,2005,9.41,Europe
+Italy,2010,7.34,Europe
+Italy,2015,7.59,Europe
+Italy,2018,7.84,Europe
+Jamaica,2000,4.91,North America
+Jamaica,2005,4.43,North America
+Jamaica,2010,4.38,North America
+Jamaica,2015,4.19,North America
+Jamaica,2018,4.22,North America
+Japan,2000,8.23,Asia
+Japan,2005,7.99,Asia
+Japan,2010,7.2,Asia
+Japan,2015,7.87,Asia
+Japan,2018,7.96,Asia
+Jordan,2000,0.62,Asia
+Jordan,2005,0.66,Asia
+Jordan,2010,0.64,Asia
+Jordan,2015,0.69,Asia
+Jordan,2018,0.69,Asia
+Kazakhstan,2000,8.18,Asia
+Kazakhstan,2005,9.33,Asia
+Kazakhstan,2010,4.97,Asia
+Kazakhstan,2015,4.66,Asia
+Kazakhstan,2018,4.76,Asia
+Kenya,2000,3.83,Africa
+Kenya,2005,3.01,Africa
+Kenya,2010,3.29,Africa
+Kenya,2015,2.77,Africa
+Kenya,2018,2.78,Africa
+Kiribati,2000,1.96,Oceania
+Kiribati,2005,2.16,Oceania
+Kiribati,2010,1.65,Oceania
+Kiribati,2015,0.52,Oceania
+Kiribati,2018,0.46,Oceania
+Kuwait,2000,0.038,Asia
+Kuwait,2005,0.019,Asia
+Kuwait,2010,0.032,Asia
+Kuwait,2015,0.003,Asia
+Kuwait,2018,0.003,Asia
+Kyrgyzstan,2000,9.45,Asia
+Kyrgyzstan,2005,11.19,Asia
+Kyrgyzstan,2010,10.08,Asia
+Kyrgyzstan,2015,7.59,Asia
+Kyrgyzstan,2018,6.26,Asia
+Laos,2000,4.66,Asia
+Laos,2005,4.37,Asia
+Laos,2010,7.1,Asia
+Laos,2015,10.05,Asia
+Laos,2018,10.72,Asia
+Late-demographic dividend,2000,5.563254588,Unknown
+Late-demographic dividend,2005,5.761431621,Unknown
+Late-demographic dividend,2010,7.605143665,Unknown
+Late-demographic dividend,2015,7.435194031,Unknown
+Late-demographic dividend,2018,7.24966961,Unknown
+Latin America & Caribbean,2000,7.301120893,Unknown
+Latin America & Caribbean,2005,7.197229026,Unknown
+Latin America & Caribbean,2010,6.999579616,Unknown
+Latin America & Caribbean,2015,6.618937404,Unknown
+Latin America & Caribbean,2018,6.331605519,Unknown
+Latin America & Caribbean (IDA & IBRD),2000,7.361728098,Unknown
+Latin America & Caribbean (IDA & IBRD),2005,7.243280962,Unknown
+Latin America & Caribbean (IDA & IBRD),2010,7.045074772,Unknown
+Latin America & Caribbean (IDA & IBRD),2015,6.638763762,Unknown
+Latin America & Caribbean (IDA & IBRD),2018,6.341037019,Unknown
+Latin America & Caribbean (excluding high income),2000,7.194611192,Unknown
+Latin America & Caribbean (excluding high income),2005,7.026421519,Unknown
+Latin America & Caribbean (excluding high income),2010,6.836732711,Unknown
+Latin America & Caribbean (excluding high income),2015,6.515641515,Unknown
+Latin America & Caribbean (excluding high income),2018,6.33674686,Unknown
+Latvia,2000,8.76,Europe
+Latvia,2005,11.96,Europe
+Latvia,2010,11.63,Europe
+Latvia,2015,12.64,Europe
+Latvia,2018,12.77,Europe
+Least developed countries: UN classification,2000,2.486311181,Unknown
+Least developed countries: UN classification,2005,2.658113881,Unknown
+Least developed countries: UN classification,2010,3.052661746,Unknown
+Least developed countries: UN classification,2015,3.24596377,Unknown
+Least developed countries: UN classification,2018,3.33836611,Unknown
+Lebanon,2000,2.96,Asia
+Lebanon,2005,2.31,Asia
+Lebanon,2010,1.94,Asia
+Lebanon,2015,1.65,Asia
+Lebanon,2018,1.71,Asia
+Lesotho,2000,7.31,Africa
+Lesotho,2005,5.37,Africa
+Lesotho,2010,6.5,Africa
+Lesotho,2015,4.8,Africa
+Lesotho,2018,4.59,Africa
+Liberia,2000,6.38,Africa
+Liberia,2005,6.05,Africa
+Liberia,2010,5.37,Africa
+Liberia,2015,5.7,Africa
+Liberia,2018,6.12,Africa
+Libya,2000,0.064,Africa
+Libya,2005,0.083,Africa
+Libya,2010,0.098,Africa
+Libya,2015,0.029,Africa
+Libya,2018,0.019,Africa
+Lithuania,2000,13.36,Europe
+Lithuania,2005,16.1,Europe
+Lithuania,2010,15.25,Europe
+Lithuania,2015,15.38,Europe
+Lithuania,2018,13.22,Europe
+Low & middle income,2000,4.2352743,Unknown
+Low & middle income,2005,4.265939237,Unknown
+Low & middle income,2010,5.507627831,Unknown
+Low & middle income,2015,5.540281941,Unknown
+Low & middle income,2018,5.4271187,Unknown
+Low income,2000,3.2751984,Unknown
+Low income,2005,3.209378945,Unknown
+Low income,2010,3.243442837,Unknown
+Low income,2015,3.124896116,Unknown
+Low income,2018,3.195235954,Unknown
+Lower middle income,2000,2.768264284,Unknown
+Lower middle income,2005,2.777312365,Unknown
+Lower middle income,2010,3.889999209,Unknown
+Lower middle income,2015,4.429854213,Unknown
+Lower middle income,2018,4.43451737,Unknown
+Luxembourg,2000,14.32,Europe
+Luxembourg,2005,13.58,Europe
+Luxembourg,2010,12.98,Europe
+Luxembourg,2015,13.18,Europe
+Luxembourg,2018,12.94,Europe
+Madagascar,2000,2.11,Africa
+Madagascar,2005,1.53,Africa
+Madagascar,2010,1.87,Africa
+Madagascar,2015,1.88,Africa
+Madagascar,2018,1.97,Africa
+Malawi,2000,2.42,Africa
+Malawi,2005,2.87,Africa
+Malawi,2010,3.21,Africa
+Malawi,2015,3.62,Africa
+Malawi,2018,3.63,Africa
+Malaysia,2000,1.53,Asia
+Malaysia,2005,1.28,Asia
+Malaysia,2010,1.32,Asia
+Malaysia,2015,0.85,Asia
+Malaysia,2018,0.85,Asia
+Maldives,2000,2.04,Asia
+Maldives,2005,1.52,Asia
+Maldives,2010,1.65,Asia
+Maldives,2015,2.07,Asia
+Maldives,2018,2.22,Asia
+Mali,2000,1.15,Africa
+Mali,2005,1.05,Africa
+Mali,2010,1.09,Africa
+Mali,2015,1.25,Africa
+Mali,2018,1.28,Africa
+Malta,2000,5.72,Europe
+Malta,2005,6.65,Europe
+Malta,2010,6.58,Europe
+Malta,2015,7.56,Europe
+Malta,2018,7.99,Europe
+Mauritania,2000,0.2,Africa
+Mauritania,2005,0.13,Africa
+Mauritania,2010,0.086,Africa
+Mauritania,2015,0.033,Africa
+Mauritania,2018,0.036,Africa
+Mauritius,2000,5.49,Africa
+Mauritius,2005,5,Africa
+Mauritius,2010,3.81,Africa
+Mauritius,2015,3.94,Africa
+Mauritius,2018,4.35,Africa
+Mexico,2000,6.43,North America
+Mexico,2005,6.48,North America
+Mexico,2010,5.21,North America
+Mexico,2015,4.92,North America
+Mexico,2018,5,North America
+Micronesia (country),2000,3.86,Unknown
+Micronesia (country),2005,2.78,Unknown
+Micronesia (country),2010,2.85,Unknown
+Micronesia (country),2015,2.44,Unknown
+Micronesia (country),2018,2.48,Unknown
+Middle East & North Africa,2000,0.654770315,Unknown
+Middle East & North Africa,2005,0.703910609,Unknown
+Middle East & North Africa,2010,0.795690497,Unknown
+Middle East & North Africa,2015,0.807447692,Unknown
+Middle East & North Africa,2018,0.812701073,Unknown
+Middle East & North Africa (IDA & IBRD),2000,0.544953675,Unknown
+Middle East & North Africa (IDA & IBRD),2005,0.623679006,Unknown
+Middle East & North Africa (IDA & IBRD),2010,0.703944205,Unknown
+Middle East & North Africa (IDA & IBRD),2015,0.685778618,Unknown
+Middle East & North Africa (IDA & IBRD),2018,0.682973122,Unknown
+Middle East & North Africa (excluding high income),2000,0.544953675,Unknown
+Middle East & North Africa (excluding high income),2005,0.623679006,Unknown
+Middle East & North Africa (excluding high income),2010,0.703944205,Unknown
+Middle East & North Africa (excluding high income),2015,0.685778618,Unknown
+Middle East & North Africa (excluding high income),2018,0.682973122,Unknown
+Middle income,2000,4.290969847,Unknown
+Middle income,2005,4.329991375,Unknown
+Middle income,2010,5.664002147,Unknown
+Middle income,2015,5.733983168,Unknown
+Middle income,2018,5.615465949,Unknown
+Moldova,2000,13.89,Europe
+Moldova,2005,19.95,Europe
+Moldova,2010,15.54,Europe
+Moldova,2015,11.87,Europe
+Moldova,2018,11.43,Europe
+Mongolia,2000,3.11,Asia
+Mongolia,2005,5.28,Asia
+Mongolia,2010,9.65,Asia
+Mongolia,2015,10.97,Asia
+Mongolia,2018,8.19,Asia
+Montenegro,2010,15.07,Europe
+Montenegro,2015,10.92,Europe
+Montenegro,2018,11.47,Europe
+Morocco,2000,1.01,Africa
+Morocco,2005,0.96,Africa
+Morocco,2010,0.9,Africa
+Morocco,2015,0.7,Africa
+Morocco,2018,0.69,Africa
+Mozambique,2000,2.33,Africa
+Mozambique,2005,1.3,Africa
+Mozambique,2010,1.63,Africa
+Mozambique,2015,2.19,Africa
+Mozambique,2018,2.3,Africa
+Myanmar,2000,0.38,Asia
+Myanmar,2005,1.65,Asia
+Myanmar,2010,2.9,Asia
+Myanmar,2015,4.41,Asia
+Myanmar,2018,5.12,Asia
+Namibia,2000,3.26,Africa
+Namibia,2005,2.7,Africa
+Namibia,2010,1.99,Africa
+Namibia,2015,5.23,Africa
+Namibia,2018,5.43,Africa
+Nauru,2000,6.04,Oceania
+Nauru,2005,3.4,Oceania
+Nauru,2010,5.73,Oceania
+Nauru,2015,3.71,Oceania
+Nauru,2018,3.71,Oceania
+Nepal,2000,1.12,Asia
+Nepal,2005,1.95,Asia
+Nepal,2010,1.94,Asia
+Nepal,2015,2.05,Asia
+Nepal,2018,2.05,Asia
+Netherlands,2000,11.08,Europe
+Netherlands,2005,10.71,Europe
+Netherlands,2010,10.21,Europe
+Netherlands,2015,9.55,Europe
+Netherlands,2018,9.61,Europe
+New Zealand,2000,10.42,Oceania
+New Zealand,2005,10.92,Oceania
+New Zealand,2010,11.32,Oceania
+New Zealand,2015,10.44,Oceania
+New Zealand,2018,10.63,Oceania
+Nicaragua,2000,5.05,North America
+Nicaragua,2005,5.3,North America
+Nicaragua,2010,4.79,North America
+Nicaragua,2015,5.03,North America
+Nicaragua,2018,5.18,North America
+Niger,2000,0.23,Africa
+Niger,2005,0.25,Africa
+Niger,2010,0.31,Africa
+Niger,2015,0.55,Africa
+Niger,2018,0.67,Africa
+Nigeria,2000,12.5,Africa
+Nigeria,2005,12.51,Africa
+Nigeria,2010,11.72,Africa
+Nigeria,2015,10.81,Africa
+Nigeria,2018,10.84,Africa
+North America,2000,9.19,Unknown
+North America,2005,9.49,Unknown
+North America,2010,9.43635355,Unknown
+North America,2015,9.722468478,Unknown
+North America,2018,9.772314908,Unknown
+North Korea,2000,3.52,Asia
+North Korea,2005,3.68,Asia
+North Korea,2010,3.78,Asia
+North Korea,2015,3.82,Asia
+North Korea,2018,3.8,Asia
+North Macedonia,2000,7.31,Europe
+North Macedonia,2005,7.03,Europe
+North Macedonia,2010,5.93,Europe
+North Macedonia,2015,5.93,Europe
+North Macedonia,2018,6.16,Europe
+Norway,2000,7.95,Europe
+Norway,2005,8.87,Europe
+Norway,2010,8.94,Europe
+Norway,2015,7.52,Europe
+Norway,2018,7.41,Europe
+OECD members,2000,9.957316828,Unknown
+OECD members,2005,9.803268985,Unknown
+OECD members,2010,9.088672416,Unknown
+OECD members,2015,9.193022846,Unknown
+OECD members,2018,9.192062122,Unknown
+Oman,2000,6.56,Asia
+Oman,2005,1.56,Asia
+Oman,2010,0.73,Asia
+Oman,2015,0.77,Asia
+Oman,2018,0.78,Asia
+Other small states,2000,5.888556312,Unknown
+Other small states,2005,6.101425064,Unknown
+Other small states,2010,5.586571973,Unknown
+Other small states,2015,5.438124583,Unknown
+Other small states,2018,5.115111992,Unknown
+Pacific island small states,2000,2.568780045,Unknown
+Pacific island small states,2005,2.436183842,Unknown
+Pacific island small states,2010,2.395673977,Unknown
+Pacific island small states,2015,2.398639645,Unknown
+Pacific island small states,2018,2.471719194,Unknown
+Pakistan,2000,0.085,Asia
+Pakistan,2005,0.16,Asia
+Pakistan,2010,0.19,Asia
+Pakistan,2015,0.29,Asia
+Pakistan,2018,0.34,Asia
+Panama,2000,5.48,North America
+Panama,2005,5.49,North America
+Panama,2010,6.84,North America
+Panama,2015,7.71,North America
+Panama,2018,7.98,North America
+Papua New Guinea,2000,1.79,Oceania
+Papua New Guinea,2005,1.6,Oceania
+Papua New Guinea,2010,1.67,Oceania
+Papua New Guinea,2015,1.39,Oceania
+Papua New Guinea,2018,1.39,Oceania
+Paraguay,2000,6.38,South America
+Paraguay,2005,6.66,South America
+Paraguay,2010,7.58,South America
+Paraguay,2015,7.26,South America
+Paraguay,2018,7.58,South America
+Peru,2000,6.54,South America
+Peru,2005,6.99,South America
+Peru,2010,7.69,South America
+Peru,2015,6.63,South America
+Peru,2018,6.38,South America
+Philippines,2000,6.06,Asia
+Philippines,2005,5.67,Asia
+Philippines,2010,6.98,Asia
+Philippines,2015,6.7,Asia
+Philippines,2018,6.86,Asia
+Poland,2000,9.17,Europe
+Poland,2005,10.6,Europe
+Poland,2010,11.21,Europe
+Poland,2015,11.63,Europe
+Poland,2018,11.71,Europe
+Portugal,2000,14.08,Europe
+Portugal,2005,13.37,Europe
+Portugal,2010,12.51,Europe
+Portugal,2015,11.88,Europe
+Portugal,2018,12.03,Europe
+Post-demographic dividend,2000,10.99473958,Unknown
+Post-demographic dividend,2005,10.77708957,Unknown
+Post-demographic dividend,2010,10.14117424,Unknown
+Post-demographic dividend,2015,10.12890484,Unknown
+Post-demographic dividend,2018,10.09703177,Unknown
+Pre-demographic dividend,2000,6.21014486,Unknown
+Pre-demographic dividend,2005,6.030477416,Unknown
+Pre-demographic dividend,2010,5.966973126,Unknown
+Pre-demographic dividend,2015,5.582300116,Unknown
+Pre-demographic dividend,2018,5.567612589,Unknown
+Qatar,2000,1.15,Asia
+Qatar,2005,1.67,Asia
+Qatar,2010,1.69,Asia
+Qatar,2015,1.62,Asia
+Qatar,2018,1.59,Asia
+Romania,2000,17.45,Europe
+Romania,2005,15.84,Europe
+Romania,2010,13.97,Europe
+Romania,2015,11.64,Europe
+Romania,2018,11.74,Europe
+Russia,2000,15.73,Europe
+Russia,2005,17.36,Europe
+Russia,2010,15.87,Europe
+Russia,2015,12.47,Europe
+Russia,2018,11.19,Europe
+Rwanda,2000,13.73,Africa
+Rwanda,2005,13,Africa
+Rwanda,2010,10.27,Africa
+Rwanda,2015,9.26,Africa
+Rwanda,2018,8.95,Africa
+Saint Kitts and Nevis,2000,9.51,North America
+Saint Kitts and Nevis,2005,11.53,North America
+Saint Kitts and Nevis,2010,9.45,North America
+Saint Kitts and Nevis,2015,8.88,North America
+Saint Kitts and Nevis,2018,8.94,North America
+Saint Lucia,2000,11.8,North America
+Saint Lucia,2005,11.62,North America
+Saint Lucia,2010,9.69,North America
+Saint Lucia,2015,9.96,North America
+Saint Lucia,2018,10.6,North America
+Saint Vincent and the Grenadines,2000,5.01,North America
+Saint Vincent and the Grenadines,2005,5.99,North America
+Saint Vincent and the Grenadines,2010,7.03,North America
+Saint Vincent and the Grenadines,2015,8.46,North America
+Saint Vincent and the Grenadines,2018,9.06,North America
+Samoa,2000,3.79,Oceania
+Samoa,2005,4.2,Oceania
+Samoa,2010,2.97,Oceania
+Samoa,2015,2.59,Oceania
+Samoa,2018,2.66,Oceania
+Sao Tome and Principe,2000,8.2,Africa
+Sao Tome and Principe,2005,8.72,Africa
+Sao Tome and Principe,2010,8.34,Africa
+Sao Tome and Principe,2015,7.19,Africa
+Sao Tome and Principe,2018,5.88,Africa
+Saudi Arabia,2000,0.18,Asia
+Saudi Arabia,2005,0.17,Asia
+Saudi Arabia,2010,0.17,Asia
+Saudi Arabia,2015,0.2,Asia
+Saudi Arabia,2018,0.19,Asia
+Senegal,2000,0.96,Africa
+Senegal,2005,0.85,Africa
+Senegal,2010,0.6,Africa
+Senegal,2015,0.73,Africa
+Senegal,2018,0.76,Africa
+Serbia,2010,11.69,Europe
+Serbia,2015,8.7,Europe
+Serbia,2018,8.75,Europe
+Seychelles,2000,7.62,Africa
+Seychelles,2005,6.13,Africa
+Seychelles,2010,10.19,Africa
+Seychelles,2015,18.35,Africa
+Seychelles,2018,20.5,Africa
+Sierra Leone,2000,5.8,Africa
+Sierra Leone,2005,5.57,Africa
+Sierra Leone,2010,5.83,Africa
+Sierra Leone,2015,5.63,Africa
+Sierra Leone,2018,5.7,Africa
+Singapore,2000,2.49,Asia
+Singapore,2005,1.78,Asia
+Singapore,2010,2.19,Asia
+Singapore,2015,2.07,Asia
+Singapore,2018,2.03,Asia
+Slovakia,2000,12.47,Europe
+Slovakia,2005,12.06,Europe
+Slovakia,2010,12,Europe
+Slovakia,2015,11.53,Europe
+Slovakia,2018,11.14,Europe
+Slovenia,2000,12.6,Europe
+Slovenia,2005,12.3,Europe
+Slovenia,2010,11.54,Europe
+Slovenia,2015,12.74,Europe
+Slovenia,2018,11.9,Europe
+Small states,2000,5.67410278,Unknown
+Small states,2005,5.796114336,Unknown
+Small states,2010,5.420583867,Unknown
+Small states,2015,5.356661704,Unknown
+Small states,2018,5.104703759,Unknown
+Solomon Islands,2000,1.2,Oceania
+Solomon Islands,2005,1.6,Oceania
+Solomon Islands,2010,1.6,Oceania
+Solomon Islands,2015,1.55,Oceania
+Solomon Islands,2018,1.83,Oceania
+Somalia,2000,0,Africa
+Somalia,2005,0.068,Africa
+Somalia,2010,0.28,Africa
+Somalia,2015,0.013,Africa
+Somalia,2018,0.009,Africa
+South Africa,2000,10.02,Africa
+South Africa,2005,9.58,Africa
+South Africa,2010,10.04,Africa
+South Africa,2015,9.61,Africa
+South Africa,2018,9.52,Africa
+South Asia,2000,1.867595303,Unknown
+South Asia,2005,1.916463078,Unknown
+South Asia,2010,3.453921327,Unknown
+South Asia,2015,4.343318398,Unknown
+South Asia,2018,4.333294381,Unknown
+South Asia (IDA & IBRD),2000,1.867595303,Unknown
+South Asia (IDA & IBRD),2005,1.916463078,Unknown
+South Asia (IDA & IBRD),2010,3.453921327,Unknown
+South Asia (IDA & IBRD),2015,4.343318398,Unknown
+South Asia (IDA & IBRD),2018,4.333294381,Unknown
+South Korea,2000,12.31,Asia
+South Korea,2005,10.58,Asia
+South Korea,2010,9.97,Asia
+South Korea,2015,10.04,Asia
+South Korea,2018,9.7,Asia
+Spain,2000,12.43,Europe
+Spain,2005,12.83,Europe
+Spain,2010,10.03,Europe
+Spain,2015,11.32,Europe
+Spain,2018,12.72,Europe
+Sri Lanka,2000,2.22,Asia
+Sri Lanka,2005,2.59,Asia
+Sri Lanka,2010,3.92,Asia
+Sri Lanka,2015,4.1,Asia
+Sri Lanka,2018,4.1,Asia
+Sub-Saharan Africa,2000,6.315086507,Unknown
+Sub-Saharan Africa,2005,6.105786819,Unknown
+Sub-Saharan Africa,2010,6.293373522,Unknown
+Sub-Saharan Africa,2015,5.871126301,Unknown
+Sub-Saharan Africa,2018,5.837510432,Unknown
+Sub-Saharan Africa (IDA & IBRD),2000,6.315086507,Unknown
+Sub-Saharan Africa (IDA & IBRD),2005,6.105786819,Unknown
+Sub-Saharan Africa (IDA & IBRD),2010,6.293373522,Unknown
+Sub-Saharan Africa (IDA & IBRD),2015,5.871126301,Unknown
+Sub-Saharan Africa (IDA & IBRD),2018,5.837510432,Unknown
+Sub-Saharan Africa (excluding high income),2000,6.314871687,Unknown
+Sub-Saharan Africa (excluding high income),2005,6.105783085,Unknown
+Sub-Saharan Africa (excluding high income),2010,6.29279117,Unknown
+Sub-Saharan Africa (excluding high income),2015,5.869527096,Unknown
+Sub-Saharan Africa (excluding high income),2018,5.835743457,Unknown
+Sudan,2015,0.52,Africa
+Sudan,2018,0.51,Africa
+Suriname,2000,5.29,South America
+Suriname,2005,5.41,South America
+Suriname,2010,6.22,South America
+Suriname,2015,5.81,South America
+Suriname,2018,5.33,South America
+Sweden,2000,8.53,Europe
+Sweden,2005,8.64,Europe
+Sweden,2010,9.49,Europe
+Sweden,2015,9.13,Europe
+Sweden,2018,8.93,Europe
+Switzerland,2000,12.49,Europe
+Switzerland,2005,11.64,Europe
+Switzerland,2010,11.41,Europe
+Switzerland,2015,11.58,Europe
+Switzerland,2018,11.53,Europe
+Syria,2000,1.15,Asia
+Syria,2005,0.92,Asia
+Syria,2010,0.88,Asia
+Syria,2015,0.28,Asia
+Syria,2018,0.24,Asia
+Tajikistan,2000,2.97,Asia
+Tajikistan,2005,2.51,Asia
+Tajikistan,2010,2.4,Asia
+Tajikistan,2015,3.11,Asia
+Tajikistan,2018,3.28,Asia
+Tanzania,2000,8.63,Africa
+Tanzania,2005,8.71,Africa
+Tanzania,2010,9.74,Africa
+Tanzania,2015,11.05,Africa
+Tanzania,2018,11.27,Africa
+Thailand,2000,6.49,Asia
+Thailand,2005,6.81,Asia
+Thailand,2010,7.71,Asia
+Thailand,2015,8.36,Asia
+Thailand,2018,8.3,Asia
+Timor,2000,1.53,Unknown
+Timor,2005,0.83,Unknown
+Timor,2010,0.7,Unknown
+Timor,2015,2.01,Unknown
+Timor,2018,2.17,Unknown
+Togo,2000,1.79,Africa
+Togo,2005,3.26,Africa
+Togo,2010,2.11,Africa
+Togo,2015,2.37,Africa
+Togo,2018,2.46,Africa
+Tonga,2000,1.7,Oceania
+Tonga,2005,2.32,Oceania
+Tonga,2010,1.39,Oceania
+Tonga,2015,0.68,Oceania
+Tonga,2018,0.8,Oceania
+Trinidad and Tobago,2000,5.27,North America
+Trinidad and Tobago,2005,6.17,North America
+Trinidad and Tobago,2010,6.21,North America
+Trinidad and Tobago,2015,6.88,North America
+Trinidad and Tobago,2018,6.72,North America
+Tunisia,2000,1.36,Africa
+Tunisia,2005,1.46,Africa
+Tunisia,2010,1.4,Africa
+Tunisia,2015,1.99,Africa
+Tunisia,2018,2.12,Africa
+Turkey,2000,2.41,Asia
+Turkey,2005,2.12,Asia
+Turkey,2010,2.32,Asia
+Turkey,2015,2.12,Asia
+Turkey,2018,2.05,Asia
+Turkmenistan,2000,4.82,Asia
+Turkmenistan,2005,4.88,Asia
+Turkmenistan,2010,4.82,Asia
+Turkmenistan,2015,5.3,Asia
+Turkmenistan,2018,4.93,Asia
+Tuvalu,2000,1.96,Oceania
+Tuvalu,2005,2.03,Oceania
+Tuvalu,2010,1.68,Oceania
+Tuvalu,2015,1.98,Oceania
+Tuvalu,2018,1.52,Oceania
+Uganda,2000,13.61,Africa
+Uganda,2005,12.92,Africa
+Uganda,2010,13.5,Africa
+Uganda,2015,15.14,Africa
+Uganda,2018,15.09,Africa
+Ukraine,2000,12.46,Europe
+Ukraine,2005,12.01,Europe
+Ukraine,2010,13.57,Europe
+Ukraine,2015,10.16,Europe
+Ukraine,2018,8.32,Europe
+United Arab Emirates,2000,2.58,Asia
+United Arab Emirates,2005,3.64,Asia
+United Arab Emirates,2010,3.15,Asia
+United Arab Emirates,2015,3.79,Asia
+United Arab Emirates,2018,3.9,Asia
+United Kingdom,2000,13.73,Europe
+United Kingdom,2005,13.89,Europe
+United Kingdom,2010,12.06,Europe
+United Kingdom,2015,11.21,Europe
+United Kingdom,2018,11.45,Europe
+United States,2000,9.19,North America
+United States,2005,9.49,North America
+United States,2010,9.36,North America
+United States,2015,9.82,North America
+United States,2018,9.87,North America
+Upper middle income,2000,5.781994494,Unknown
+Upper middle income,2005,5.89450622,Unknown
+Upper middle income,2010,7.532983407,Unknown
+Upper middle income,2015,7.179354123,Unknown
+Upper middle income,2018,6.963591804,Unknown
+Uruguay,2000,8.09,South America
+Uruguay,2005,7.46,South America
+Uruguay,2010,7.1,South America
+Uruguay,2015,6.99,South America
+Uruguay,2018,6.92,South America
+Uzbekistan,2000,5.68,Asia
+Uzbekistan,2005,4.15,Asia
+Uzbekistan,2010,3.01,Asia
+Uzbekistan,2015,2.59,Asia
+Uzbekistan,2018,2.59,Asia
+Vanuatu,2000,1.17,Oceania
+Vanuatu,2005,1.2,Oceania
+Vanuatu,2010,1.7,Oceania
+Vanuatu,2015,2.14,Oceania
+Vanuatu,2018,2.25,Oceania
+Venezuela,2000,9.15,South America
+Venezuela,2005,9.42,South America
+Venezuela,2010,8.67,South America
+Venezuela,2015,6.82,South America
+Venezuela,2018,4.14,South America
+Vietnam,2000,2.21,Asia
+Vietnam,2005,2.63,Asia
+Vietnam,2010,4.9,Asia
+Vietnam,2015,7.86,Asia
+Vietnam,2018,8.66,Asia
+World,2000,5.488338776,Unknown
+World,2005,5.428839285,Unknown
+World,2010,6.283777196,Unknown
+World,2015,6.297859044,Unknown
+World,2018,6.18140363,Unknown
+Yemen,2000,0.79,Asia
+Yemen,2005,0.34,Asia
+Yemen,2010,0.18,Asia
+Yemen,2015,0.055,Asia
+Yemen,2018,0.051,Asia
+Zambia,2000,4.05,Africa
+Zambia,2005,3.9,Africa
+Zambia,2010,5.43,Africa
+Zambia,2015,6.89,Africa
+Zambia,2018,6.54,Africa
+Zimbabwe,2000,2.46,Africa
+Zimbabwe,2005,2.77,Africa
+Zimbabwe,2010,3.93,Africa
+Zimbabwe,2015,4.92,Africa
+Zimbabwe,2018,4.67,Africa
